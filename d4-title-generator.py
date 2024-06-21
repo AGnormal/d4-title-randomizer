@@ -31,7 +31,7 @@ prefixes = [
 "Brash",
 "Brave",
 "Brittle",
-"Brutals",
+"Brutal",
 "Bubbly",
 "Cackling",
 "Callous",
