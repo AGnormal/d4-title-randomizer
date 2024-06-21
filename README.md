@@ -14,3 +14,4 @@ python3
 	
 ## Prefix/Suffix unlock requirements
 Refer to [Every Diablo 4 title and how to unlock](https://www.pcgamesn.com/diablo-4/title-unlock) for unlock requirements for each prefix and suffix 
+**Note:** Might be missing a few, particularly seasonal titles
