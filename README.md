@@ -1,7 +1,7 @@
 # D4 Title Randomizer
 Just a simple little python app I created, with the help of ChatGPT, to generate random Diablo 4 prefix and suffix title combinations because you can't currently do it in the game itself. As a disclaimer, I am *not* a programmer, so please don't judge this too harshly. 
 
-![D4 Title Randomizer Demo](/assets/d4-title-randomizer.gif)
+![D4 Title Randomizer Demo](/assets/d4-title-randomizer-demo.gif)
 
 ## App requirements
 python3
