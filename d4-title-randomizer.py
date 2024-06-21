@@ -468,7 +468,7 @@ def pick_both():
 
 # Initialize the main window
 root = tk.Tk()
-root.title("D4 Title Generator")
+root.title("D4 Title Randomizer")
 
 # Character Name
 tk.Label(root, text="Character Name:").grid(row=0, column=0, padx=10, pady=10)
